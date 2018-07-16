@@ -25,4 +25,3 @@ const driversByRevenue= function(array){
 }
 
 
-
